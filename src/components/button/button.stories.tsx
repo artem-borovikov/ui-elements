@@ -5,7 +5,7 @@ import { Button, ButtonProps } from "./button";
 export default {
 	title: "Button",
 	component: Button,
-	description: `A button.`,
+	description: `A button!!!!!!`,
 	argTypes: {
 		backgroundColor: { control: "color" },
 		color: { control: "color" },
