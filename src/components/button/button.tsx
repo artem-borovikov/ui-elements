@@ -6,6 +6,7 @@ export interface ButtonProps {
 	onClick?: () => void;
 	backgroundColor?: string;
 	color?: string;
+	prop?: string;
 }
 
 export const Button = ({
